@@ -1,0 +1,11 @@
+body{
+font-family:sans-serif}
+li{
+  display: inline;}
+ a{
+  text-decoration: none;
+    padding-right: 10px;
+  color: #333;}
+   a:hover{
+  text-decoration: underline;;
+  color:violet;}
