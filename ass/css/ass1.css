@@ -1,0 +1,33 @@
+.fst{
+	font-family: 'Abril Fatface', 'cursive';
+	color: blue;
+	}
+
+.fsbt a:hover{
+	font-size: 30px;}
+
+.fsbt li{
+	display: inline;
+	float: right;}
+	
+.main{
+font-family: 'Playball', 'cursive';
+background: lightblue;
+color:blue;}
+
+.subsecond{
+	font-family: 'Playball', 'cursive';}
+
+aside{
+		font-family: 'Playball', 'cursive';}
+	
+.subthird{
+	font-family: 'Playball', 'cursive';
+}
+
+.four1{
+	background: lightblue;
+	color:blue;
+
+	}
+
